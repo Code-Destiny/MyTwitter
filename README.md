@@ -145,7 +145,7 @@ A successful request returns the url of the actual video and the user side makes
 
 > POST	/v1/users/signup
 
-signup
+sign up
 
 ### 2.2 login
 
